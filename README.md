@@ -1,2 +1,2 @@
 # Basic-Doubly-Linked-List
-A custom implementation of a doubly linked list data structure in Java, adhering to specific requirements and constraints. This project had a focus in data structures, object-oriented programming, and software development practices.
+This project implements a doubly-linked list using a modified version of a textbook's BasicDLList class. The implementation avoids the use of header and trailer nodes, instead relying on head and tail pointers directly.
